@@ -1,0 +1,41 @@
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  padding-left: 20px;
+
+}
+
+.stepContainer {
+  display: inline-flex;
+  align-items: center;
+  width: 100%;
+
+
+}
+.icon {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: black;
+  font-size: 10px;
+  color: #fff;
+
+}
+.name {
+  padding-left: 5px;
+
+}
+.line {
+  display: flex;
+  flex-grow: 1;
+  height: 2px;
+  margin: 0px 20px;
+  background-color: black;
+
+}
