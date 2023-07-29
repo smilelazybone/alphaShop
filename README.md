@@ -3,7 +3,7 @@
 (專案為課程作業)
 
 專案照片
-![img](https://github.com/smilelazybone/alphaShop/blob/master/src/photo/acshop_2Cart.png)
+![img](https://github.com/smilelazybone/alphaShop/blob/main/src/photo/acshop_2cart.png)
 
 ### install
 
