@@ -1,4 +1,5 @@
 import Step from './Step/Step'
+import Cart from './Cart/Cart'
 import './Main.css'
 
 export default function Main() {
@@ -8,6 +9,7 @@ export default function Main() {
         <Step/>
       </div>
       <div className="cart">
+        <Cart/>
       </div>
     </div>
   )
